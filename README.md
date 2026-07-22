@@ -13,6 +13,10 @@ I build AI systems end-to-end — from computer vision and predictive models to 
 
 ## 🚀 Featured Projects
 
+**[🩺 Healthcare Assistant AI Co-Pilot](https://github.com/Hammad7-dot/healthcare-ai-copilot)**
+Multi-modal clinical decision-support tool combining a CNN + Grad-CAM for chest X-ray diagnosis, an ANN for vitals-based risk scoring, and an LLM for triage summarization — with automated PDF report generation.
+`PyTorch` `scikit-learn` `Groq/LLM` `Streamlit`
+
 **[🏦 CrediShield — AI Loan Underwriting Engine](https://github.com/Hammad7-dot/-AI-Co-Pilot-for-Bank-Loan-)**
 AI-powered loan underwriting assistant with predictive analytics and explainable AI (XAI), refactored into a clean multi-file architecture.
 `Python` `scikit-learn` `Streamlit`
