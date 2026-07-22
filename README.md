@@ -1,6 +1,6 @@
-# Hi, I'm Muhammad Hammad Khan 👋
+ I'm Muhammad Hammad Khan 
 
-**Backend AI Engineering Intern @ FlyRank AI** · AI & Data Science Student @ Saylani Mass IT Training (SMIT)
+Backend AI Engineering Intern @ FlyRank AI** · AI & Data Science Student @ Saylani Mass IT Training (SMIT)
 
 I build AI systems end-to-end — from computer vision and predictive models to full-stack apps that put them in front of real users. I like messy, ambiguous problems more than clean ones.
 
