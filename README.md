@@ -41,8 +41,7 @@ AI-powered ETL pipeline with automated data collection, forecasting, and interac
 ---
 
 ## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/muhammad-hammad-khan-036618394/) · Open to internship opportunities in AI/ML and backend engineering## Hi there 👋
+https://www.linkedin.com/in/muhammad-hammad-khan-036618394/· Open to internship opportunities in AI/ML and backend engineering.
 
 <!--
 **Hammad7-dot/Hammad7-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
