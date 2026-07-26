@@ -13,7 +13,7 @@ I build AI systems end-to-end — from computer vision and predictive models to 
 
 ## 🚀 Featured Projects
 
-**[🩺 Healthcare Assistant AI Co-Pilot](https://github.com/Hammad7-dot/healthcare-ai-copilot)**
+**[🩺 Healthcare Assistant AI Co-Pilot](https://github.com/Hammad7-dot/Healthcare-Co-Pilot)**
 Multi-modal clinical decision-support tool combining a CNN + Grad-CAM for chest X-ray diagnosis, an ANN for vitals-based risk scoring, and an LLM for triage summarization — with automated PDF report generation.
 `PyTorch` `scikit-learn` `Groq/LLM` `Streamlit`
 
