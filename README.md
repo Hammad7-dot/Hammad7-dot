@@ -65,7 +65,7 @@ Backend AI Engineering Intern @ FlyRank AI | Building ML-powered products
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
-![Visitor Count](https://github.com/Hammad7-dot/)
+![Profile Views](https://komarev.com/ghpvc/?username=Hammad7-dot&color=blue)
 
 
 ---
