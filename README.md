@@ -12,8 +12,6 @@ Habit Tracker, a full-stack habit tracker built with FastAPI, PostgreSQL, and Ja
 
 Dynamic ETL Weather Dashboard, an AI-powered ETL pipeline with Streamlit, SQLAlchemy, and the OpenWeather API. Live: https://dynamic-etl-weather-dashboard-20-fpcmp6knkmctyrxdgzkotr.streamlit.app/, Code: https://github.com/Hammad7-dot/Dynamic-ETL-Weather-Dashboard-2.0
 
-MNIST Digit Recognizer, handwritten digit recognition with a deep learning model. Live: https://prjprewx6dijurxhp9npu4.streamlit.app/, Code: https://github.com/Hammad7-dot/MNIST
-
 RoadGuard AI, real-time traffic violation and hazard detection using computer vision. Live: https://ndws3kmmhjhyuhfnjt3j5k.streamlit.app/, Code: https://github.com/Hammad7-dot/RoadGuard-AI-
 
 ### Tech Stack
