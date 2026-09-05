@@ -4,15 +4,15 @@ Backend AI Engineering Intern @ FlyRank AI, building ML-powered products. Based 
 
 ### Featured Projects
 
-CrediShield AI Co-Pilot, a loan underwriting assistant with SHAP explainability and human-in-the-loop approval. Live: https://credishield-ai-co-pilot-9im8s9ysrxp3a2tpqp8jav.streamlit.app/, Code: https://github.com/Hammad7-dot/CrediShield-AI-Co-Pilot
+**[AI Data Science Agent](https://github.com/Hammad7-dot/AI-Data-Science-Agent)** — Automated ML experimentation with iterative model search, cross-validation, held-out evaluation, and downloadable reports. Built with Python, scikit-learn, and Streamlit.
 
-Healthcare Co-Pilot, an AI co-pilot for clinicians combining imaging, tabular risk data, and Grad-CAM/SHAP explainability. Live: https://healthcare-co-pilot-42rwgtlfj475rinvdsezit.streamlit.app/, Code: https://github.com/Hammad7-dot/Healthcare-Co-Pilot
+**[AI Document Q&A API (RAG)](https://github.com/Hammad7-dot/AI-Document-Q-A-API-RAG-)** — A FastAPI backend for PDF question answering with cited sources, streaming responses, JWT authentication, and PostgreSQL/pgvector retrieval.
 
-Habit Tracker, a full-stack habit tracker built with FastAPI, PostgreSQL, and JavaScript. Live: https://habit-tracker-blue-one.vercel.app/, Code: https://github.com/Hammad7-dot/Habit-Tracker
+**[FraudGuard AI](https://github.com/Hammad7-dot/FraudGuard-AI)** — A transaction risk-scoring MVP combining XGBoost, Isolation Forest, and a rule engine, with Redis-backed features and a Streamlit monitoring dashboard.
 
-Dynamic ETL Weather Dashboard, an AI-powered ETL pipeline with Streamlit, SQLAlchemy, and the OpenWeather API. Live: https://dynamic-etl-weather-dashboard-20-fpcmp6knkmctyrxdgzkotr.streamlit.app/, Code: https://github.com/Hammad7-dot/Dynamic-ETL-Weather-Dashboard-2.0
+**[Visual AI Decision Workflow System](https://github.com/Hammad7-dot/Visual-AI-Decision-Workflow-System)** — A visual workflow builder with AI-powered YES/NO branching, execution logs, and optional Inngest background execution. Built with Next.js, React Flow, and TypeScript.
 
-RoadGuard AI, real-time traffic violation and hazard detection using computer vision. Live: https://ndws3kmmhjhyuhfnjt3j5k.streamlit.app/, Code: https://github.com/Hammad7-dot/RoadGuard-AI-
+**[Smart City Traffic ANPR System](https://github.com/Hammad7-dot/Smart-City-Traffic-ANPR-System)** — A computer vision pipeline for vehicle tracking, line-crossing counts, and license plate OCR, with SQLite storage and a Streamlit dashboard.
 
 ### Tech Stack
 
